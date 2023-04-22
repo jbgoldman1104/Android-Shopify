@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/testt"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/tvNAME"
+        android:layout_width="165dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="120dp"
+        android:shadowColor="#514141"
+        android:shadowRadius="20"
+        android:text="  Shopify  "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#f6f6f6"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/tvDESCRIPTION"
+        android:layout_width="241dp"
+        android:layout_height="55dp"
+        android:shadowColor="#514141"
+        android:shadowRadius="20"
+        android:text="Like You , We Love Music"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#DAD5D5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvNAME" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

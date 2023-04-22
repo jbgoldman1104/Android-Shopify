@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Habiba Mohamady/AndroidStudioProjects/shopify/app/src/main/res/layout/login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Habiba Mohamady/AndroidStudioProjects/shopify/app/src/main/res/layout/sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/activity_description.xml" value="0.536" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/activity_home.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/activity_main.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/activity_total.xml" value="0.264" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/bs_items.xml" value="0.4" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/cart_list.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/description2/app/src/main/res/layout/popular_items.xml" value="0.2" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_badapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_bs_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_description.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/bs_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/cart_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JC.TECH/AndroidStudioProjects/shopifyFinal/app/src/main/res/layout/popular_items.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

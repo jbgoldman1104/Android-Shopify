@@ -1,2 +1,2 @@
-# Android-Shopify
- Android sample project for Shopify SDK
+# shopify - android application
+e-commerce android application for selling phones and computer accessories
